@@ -1,0 +1,4 @@
+ToolSet: 9.0 w64 (local)@C:\MinGW
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/OMEN/AppData/Local/Programs/CLion 2/bin/ninja/win/x64/ninja.exe
