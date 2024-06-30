@@ -1,6 +1,12 @@
 #include <iostream>
+
 using namespace std;
+
 int main() {
-    cout << " ahmed" << endl;
+    long  long a, c;
+    int b,d;
+    cin >> a >> b >> c >> d;
+    cout<< (a*b)-(c*d) << endl;
     return 0;
 }
+
